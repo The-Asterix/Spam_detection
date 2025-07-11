@@ -1,4 +1,4 @@
-pandas=2.2.2
-joblib
+pandas==2.2.2
+joblib==1.4.2
 streamlit
 scikit-learn==1.5.1
